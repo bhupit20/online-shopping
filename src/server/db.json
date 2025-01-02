@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike Air Monarc",
+      "price": 170,
+      "imageUrl": [
+        "/images/sneakers/white/1.webp",
+        "/images/sneakers/white/2.webp",
+        "/images/sneakers/white/3.webp",
+        "/images/sneakers/white/4.webp",
+        "/images/sneakers/white/5.webp",
+        "/images/sneakers/white/6.webp"
+      ],
+      "category": "sneakers"
+    },
+    {
+      "id": "2",
+      "name": "Nike Initiator",
+      "price": 299,
+      "imageUrl": [
+        "/images/sneakers/white-and-beige/1.webp",
+        "/images/sneakers/white-and-beige/2.webp",
+        "/images/sneakers/white-and-beige/3.webp",
+        "/images/sneakers/white-and-beige/4.webp",
+        "/images/sneakers/white-and-beige/5.webp",
+        "/images/sneakers/white-and-beige/6.webp"
+      ],
+      "category": "sneakers"
+    },
+    {
+      "id": "3",
+      "name": "Nike Journey Run",
+      "price": 299,
+      "imageUrl": [
+        "/images/sneakers/blue/1.webp",
+        "/images/sneakers/blue/2.webp",
+        "/images/sneakers/blue/3.webp",
+        "/images/sneakers/blue/4.webp",
+        "/images/sneakers/blue/5.webp",
+        "/images/sneakers/blue/6.webp"
+      ],
+      "category": "sneakers"
+    },
+    {
+      "id": "4",
+      "name": "Nike Air Max 90",
+      "price": 299,
+      "imageUrl": [
+        "/images/sneakers/orange/1.webp",
+        "/images/sneakers/orange/2.webp",
+        "/images/sneakers/orange/3.webp",
+        "/images/sneakers/orange/4.webp",
+        "/images/sneakers/orange/5.webp",
+        "/images/sneakers/orange/6.webp"
+      ],
+      "category": "sneakers"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "73d4",
+      "sessionId": "a69858c4dc574de194858fe35a3a61ad",
+      "products": [
+        {
+          "id": "4",
+          "name": "Nike Air Max 90",
+          "imageUrl": "/images/sneakers/orange/1.webp"
+        }
+      ]
+    },
+    {
+      "id": "7b29",
+      "sessionId": "067962be87a04266a0568e6f4f3355ff",
+      "products": [
+        {
+          "id": "1",
+          "name": "Nike Air Monarc",
+          "imageUrl": "/images/sneakers/white/1.webp"
+        }
+      ]
+    },
+    {
+      "id": "2be6",
+      "sessionId": "067962be87a04266a0568e6f4f3355ff",
+      "products": [
+        {
+          "id": "2",
+          "name": "Nike Initiator",
+          "imageUrl": "/images/sneakers/white-and-beige/1.webp"
+        }
+      ]
+    },
+    {
+      "id": "ae71",
+      "sessionId": "4d143f8aeb844ac99cf1409cd5d28533",
+      "products": [
+        {
+          "id": "3",
+          "name": "Nike Journey Run",
+          "imageUrl": "/images/sneakers/blue/1.webp"
+        }
+      ]
+    },
+    {
+      "id": "db31",
+      "sessionId": "4d143f8aeb844ac99cf1409cd5d28533",
+      "products": [
+        {
+          "id": "4",
+          "name": "Nike Air Max 90",
+          "imageUrl": "/images/sneakers/orange/1.webp"
+        }
+      ]
+    }
+  ]
+}
