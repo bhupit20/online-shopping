@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # online-shopping
+
+🛒 Online Shopping Website
+This is a feature-rich, modern online shopping website built using Next.js and TypeScript. The application provides a seamless user experience for browsing, searching, and purchasing products.
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
