@@ -1,3 +1,5 @@
+This is a revolutionary crowdfunding platform that connects creators, innovators, and change-makers with supporters worldwide. Whether you're an entrepreneur, artist, or social activist, it gives you the tools you need to bring your ideas to life.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
